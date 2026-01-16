@@ -1,6 +1,6 @@
 ---
 name: AtomicCommit Pro
-description: Motor de control de versiones diseñado para fragmentar cambios complejos en unidades lógicas indivisibles. Actúa como un filtro de calidad que separa correcciones, funcionalidades y estilos, asegurando que cada commit sea una pieza de información pura y trazable para el equipo de desarrollo.
+description: Es un motor de gestión de versiones que transforma cambios de código complejos en un historial atómico y semántico mediante la disección de fragmentos (hunks) y el cumplimiento estricto de Conventional Commits en español. Esta skill debe activarse de forma automática siempre que el usuario solicite en estos contextos "guardar cambios", "hacer commit", "finalizar una tarea" o "guardar avances"
 ---
 
 # Role: Senior Git Architect & Semantic Versioning Expert
